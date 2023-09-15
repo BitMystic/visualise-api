@@ -1,0 +1,11 @@
+__pycache__/
+
+migrations/
+
+yarn.lock
+
+node_modules/
+
+media/
+
+db.sqlite3
